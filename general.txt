@@ -1,0 +1,11 @@
+zte ivas uniportal : 
+	http://192.168.75.2:8080/uniportal/frame/welcome.action
+	user name : Zikri
+
+remote desktop:
+	192.168.161.222
+	liu   liu321
+	ftp: zxin10
+ZTE Anyservice Uniportal:
+	http://192.168.65.133:8080/uniportal/frame/welcome.action
+	super 1
